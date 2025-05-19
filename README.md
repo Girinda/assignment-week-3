@@ -1,2 +1,25 @@
-# assignment
+# assignment lesson 1& 2
 fnb app academy project 1
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="header">
+<img src="images/logo.png"/>
+</div>
+<div id="tabs-top">
+<a href="#">ANIMALS</a>
+<a href="#">MAP</a>
+<a href="#">PLACES</a>
+</div>
+<div id="main-home">
+<img src="images/map.png" width="100">
+</div>
+<div id="tabs-bottom">
+<a href="#">WEATHER</a>
+<a href="#">FEEDBACK</a>
+</div>
+</body>
+</html>
