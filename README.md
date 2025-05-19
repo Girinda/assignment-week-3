@@ -1,2 +1,2 @@
-# assignment1
+# assignment
 fnb app academy project 1
