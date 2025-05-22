@@ -1,4 +1,4 @@
-# assignment lesson 1& 2
+# assignment week 3
 fnb app academy project 1
 <!DOCTYPE html>
 <html>
